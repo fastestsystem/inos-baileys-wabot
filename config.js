@@ -1,8 +1,8 @@
-global.owner = ["93=23091388832@s.whatsapp.net"]
+global.owner = ["923091388832@s.whatsapp.net"]
 global.multiPrefix = false
 global.autoRead = true
 global.messConf = {
-  prefix: "!",
+  prefix: "",
   maxFileSize: 90.0
 }
 global.language = 'english'
@@ -10,7 +10,7 @@ global.allow = {
   nsfw: true
 }
 global.stickerInfo = {
-  author: "© Bot",
+  author: "fastes system © Bot",
   pack: ""
 }
 global.gameTime = 60
