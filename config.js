@@ -1,11 +1,11 @@
-global.owner = ["123@s.whatsapp.net"]
+global.owner = ["93=23091388832@s.whatsapp.net"]
 global.multiPrefix = false
 global.autoRead = true
 global.messConf = {
   prefix: "!",
-  maxFileSize: 30.0
+  maxFileSize: 90.0
 }
-global.language = 'ind'
+global.language = 'english'
 global.allow = {
   nsfw: true
 }
